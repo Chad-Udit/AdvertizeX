@@ -1,0 +1,4 @@
+pyspark==3.3.1
+boto3==1.26.34
+psycopg2-binary==2.9.5
+confluent_kafka==2.1.1
